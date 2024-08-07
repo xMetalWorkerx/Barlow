@@ -1,0 +1,34 @@
+{
+  "id": "barlowmanor",
+  "title": "Barlow Manor",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "description": "A map of a haunted house with pre-placed walls, lights, and doors.",
+  "authors": [
+    {
+      "name": "Bartholomew Klick",
+      "email": "bartholomew.klick@gmail.com",
+      "url": "phttps://www.patreon.com/thievescant",
+      "discord": "Bart the DM",
+      "flags": {}
+    }
+  ],
+  "url": "https://www.patreon.com/thievescant",
+  "packs": [
+    {
+      "name": "barlow-manor",
+      "label": "Barlow Manor",
+      "path": "packs/barlow-manor",
+      "type": "Adventure",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e",
+      "flags": {}
+    }
+  ]
+}
